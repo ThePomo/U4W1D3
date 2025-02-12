@@ -27,5 +27,4 @@ else
 #region Esercizio3
 
 
-
 #endregion
